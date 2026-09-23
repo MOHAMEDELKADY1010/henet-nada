@@ -105,18 +105,7 @@ export default function IntroCover1({ onOpen, setplaying }) {
             اضغط لفتح الدعوة
           </p>
 
-          <p
-            style={{
-              fontFamily: "'Montserrat', sans-serif",
-              fontSize: "9px",
-              color: "rgba(255,255,255,0.4)",
-              letterSpacing: "0.10em",
-              textTransform: "uppercase",
-              fontWeight: "300",
-            }}
-          >
-            Click anywhere to open
-          </p>
+       
         </motion.div>
       </motion.div>
     </AnimatePresence>
